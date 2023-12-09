@@ -2,4 +2,4 @@
 
 ## Manasa
 
-## Manasa git practice first class
+## Manasa git practice
